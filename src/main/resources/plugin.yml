@@ -1,0 +1,6 @@
+name: ClickLib
+version: ${project.version}
+main: com.craftmend.clicklib.ClickLib
+api-version: 1.13
+authors: [Mindgamesnl]
+description: ClickLib is yet another GUI library. For use in OpenAudioMc and ShowsPlus
